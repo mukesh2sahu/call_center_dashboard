@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e1dbf9b1-25ae-441c-af4b-8c720e254c1a)
 🚀 Excited to share the Call Center Dashboard I created using Power BI!
 
 This dashboard provides a comprehensive view of:
